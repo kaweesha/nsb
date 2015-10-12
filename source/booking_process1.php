@@ -12,7 +12,7 @@
 <!--main images, nav bar-->
 <img class="img1" src="Templates/sds.png" width="200" height="150" />
 <img class="img2" src="Templates/perfect_hotel.jpg" width="1021" height="118" />
-<img class="img3" src="Templates/nsb_logo_1.png" width="180" height="118" />
+<img class="img3" src="Templates/nsb_logo_1.png" width="700" height="118" />
 <h2 class="offscreen"></h2> 
 
 <div id="hmenu"> 
