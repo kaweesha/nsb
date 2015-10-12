@@ -1,0 +1,103 @@
+@charset "utf-8";
+/* CSS Document */
+
+.form {
+	position:absolute;
+	left: 350px;
+	top: 200px;
+    border-collapse: separate;
+    border-spacing: 10px 10px;
+	background-color: #FFCC66;
+	font-family: Arial, Helvetica, sans-serif;
+	
+}
+
+.td {
+	text-align:left;
+	background-color:#FFCC66;
+	
+	
+}
+
+.form input, textarea {
+	background-color: rgba(255,255,255,0.3);
+	border: 1px solid rgba(122, 192, 0, 0.15); 
+	padding: 7px;
+	font-family: Arial, Helvetica, sans-serif ;
+	color: rgba(75,75,75,1); 
+	font-size: 14px; 
+	-webkit-border-radius: 5px;
+	
+}
+
+.drop_down_list {
+	-webkit-appearance: button;
+	-webkit-border-radius: 5px;
+	background-image:url(select-arrow.png);
+	background-position:right;
+	background-repeat:no-repeat;
+	background-color: rgba(255, 255, 255, 0.3);
+	padding: 7px;
+	width: 254px;
+  	border: 0px solid rgba(255, 255, 255, 1);
+	font-family: Arial, Helvetica, sans-serif;
+	
+}
+
+.form input:focus  {
+	background-color: rgba(254,138,61,0.2);
+}
+
+/*reservation table in resevation_table.php*/
+.reservation_table {
+	position: absolute;
+	top: 200px;
+	left: 220px; 
+}
+.button1 {
+	position:absolute; 
+	left: 35px; 
+	top: 269px; 
+	width: 168px; 
+	height: 30px;
+	font: Times New Roman, Times, serif;
+	background-color: #FFCC66;
+	padding: 4px 6px 4px 6px;
+	border: 1px solid #000000;
+	border-radius: 6px;
+	font-weight: bold;
+}
+.img3{
+	position: absolute;
+	left: 30px;
+	top: 500px;
+	height: 50px;
+	
+}
+.button2 {
+	position:absolute;
+	left: 35px;
+	top: 323px;
+	width: 168px;
+	height: 30px;
+	font: Times New Roman, Times, serif;
+	background-color: #FFCC66;
+	padding: 4px 6px 4px 6px;
+	border: 1px solid #000000;
+	border-radius: 6px;
+	font-weight: bold;
+}
+
+.button3 {
+	position:absolute;
+	left: 35px;
+	top: 376px;
+	width: 168px;
+	height: 30px;
+	font: Times New Roman, Times, serif;
+	background-color: #FFCC66;
+	padding: 4px 6px 4px 6px;
+	border: 1px solid #000000;
+	border-radius: 6px;
+	font-weight: bold;
+}
