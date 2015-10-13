@@ -179,6 +179,7 @@ if (mysqli_num_rows($result) > 0)  {
 }
 else {
 	echo 'problem in $result.';
+	echo "my first git commit";
 	//add the reservation
 }
 
